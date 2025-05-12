@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Udit-Shukla-s-workspace-o0ki7j.us-east-1.xata.sh/db/loomcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
